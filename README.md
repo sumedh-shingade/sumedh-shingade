@@ -26,6 +26,4 @@ I'm a versatile software engineer with a passion for building cutting-edge appli
 I'm always eager to collaborate on exciting projects and contribute to the tech community. Feel free to reach out for discussions, networking, or simply to geek out about the latest technologies!
 
 Happy coding and innovation! 🌟
-```
 
-Remember to replace placeholders like `[Your Name]`, `[Your LinkedIn Profile]`, `[Project 1]`, and others with your actual information and relevant links. Customize the content to reflect your achievements, projects, and style.
